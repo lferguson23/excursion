@@ -1,0 +1,26 @@
+body {
+  background-color:Black;
+  text-align: center;
+  font-family: Verdana;
+      }
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.text {
+  font-size: 21px;
+  color: Gray;
+}
+h2 {
+  color: White;
+  font-weight: 300;
+  font-size: 42px;
+}
+.copyright{
+  text-align: right;
+}
